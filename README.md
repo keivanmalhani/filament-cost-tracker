@@ -7,8 +7,6 @@ Local-first filament inventory and true print cost calculator for 3D printing.
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
 [![Dependencies: none](https://img.shields.io/badge/runtime%20dependencies-none-brightgreen.svg)](#no-dependencies-on-purpose)
 
-Read this in [Spanish / en espanol](README.es.md).
-
 ![spool demo: log a failed print and watch the cost report account for it](docs/demo.gif)
 
 `spool` tracks what filament you own and what it cost, ingests finished print
